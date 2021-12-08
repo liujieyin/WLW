@@ -14,7 +14,7 @@
 * 程序设置了单一实例检测，无法同时运行两个程序。
 
 ## 源代码
-&ensp;&ensp;&ensp;&ensp;白色光剑武器库采用nodejs开发，使用electron桌面应用框架，使用html+css+js方式打造， 现已开源至Github，若该工具对您有帮助，欢迎各位一起修复BUG和优化工具。源码在程序主目录下**resources/app**文件夹内，里面是开发目录下的全部源文件和源代码，其中：
+&ensp;&ensp;&ensp;&ensp;白色光剑武器库采用nodejs开发，使用electron桌面应用框架，使用html+css+js方式打造， 现已开源至Github，若该工具对您有帮助，欢迎各位一起修复BUG和优化工具。源代码在程序主目录下**resources/app**文件夹内，里面是开发目录下的全部源文件和源代码，其中：
 * main.js是程序的入口文件，为主程序文件。
 * instructions文件夹存放了使用文档页面的HTML、CSS和img文件。
 * templates文件夹存放了程序源码HTML文件，其中content文件夹下：
